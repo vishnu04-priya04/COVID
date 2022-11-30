@@ -1,3 +1,2 @@
 # COVID
-Corona is a deadly virus.
-stay home stay safe.
+corona virus is a deadly virus.
