@@ -1,2 +1,2 @@
 # COVID
-greetings 
+Corona is a deadly virus.
